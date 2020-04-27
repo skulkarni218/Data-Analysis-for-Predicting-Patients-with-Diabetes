@@ -16,3 +16,5 @@ The results of Machine Learning algorithms can be seen below:
 | Random Forest Classifier with best parameters  | 36  | 0.73  | 0.86  |
 | Support Vector Classifier with default parameters  | 87  | 0.52  | 0.66  |
 | Support Vector Classifier with best parameters  | 39  | 0.76  | 0.85  |
+
+From the above table, it is very much clear that Logistic Regression or Random Forest Classifier with some tweeking will work the best for this data as it has high accuracy along with high F-1 Score. While, the Support Vector Classifier with default parameters performs the worst!
